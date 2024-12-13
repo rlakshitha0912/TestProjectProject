@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestProjectProject
+  gitServerName: lara
+  gitUrl: https://github.com/rlakshitha0912
+  gitUsername: rlakshitha0912
+  gitBranch: main
